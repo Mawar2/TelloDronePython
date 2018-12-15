@@ -1,5 +1,6 @@
 # TelloDronePython
 Personal Project during Winter Break
+****DECEMBER 15TH, 2018
 
 GOAL: 
 
