@@ -12,4 +12,4 @@ Tello Library is located in tello.py
 Instructions for the drone specifically is in mastery.py
 
 
---Be sure to check which 
+Be sure to check on your devices local IP address and port #
